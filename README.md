@@ -11,8 +11,8 @@
 
 ## 연구회 과정
 
-* [1차 Vue+NestJS+ AWS 를 사용하여 블로그 시스템 만들기](document/blog/README.md)
-* [2차](document/shoppingmall/README.md)
+* [1차 Vue+NestJS+ AWS 를 사용하여 블로그 시스템 만들기](blog/README.md)
+* [2차](shoppingmall/README.md)
 
 <br>
 
