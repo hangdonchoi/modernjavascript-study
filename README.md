@@ -1,10 +1,7 @@
 
-# :mortar_board: 프론트엔드스터디(FrontEndStudy)
+# :mortar_board: 모던자바스크립트연구회(ModernJavascript)
 
-
-프론트엔드스터디는 그룹형 스터디로써 프론트엔드 전반에 사용되는 기술을 공부하는 스터디 입니다.
-111 테스트
-모든 문서는 스터디멤버가 작성하고, 익히고, 사용하는걸 목표로 만들어집니다.
+모던 자바스크립트 연구회는 자바스크립트를 이용해서 web + server 단을 구축하는것을 목료로 하고 있습니다.
 
 <br>
 
@@ -16,39 +13,22 @@
 <br>
 
 
-## 목차
+## 연구회 과정
 
-* [Github](document/Github/README.md)
-* [Sublimetext](document/Sublimetext/README.md)
-* [Grunt](document/Grunt/README.md)
-* [CSS3](document/CSS3/README.md)
-* [Sass](document/Sass/README.md)
+* [1차](document/blog/README.md)
+* [2차](document/shoppingmall/README.md)
 
 <br>
 
+## 기타 기술 
 * [Javascript](document/Javascript/README.md)
-* [Jquery](document/Jquery/README.md)
-* [Angularjs](document/AngularJS/README.md)
-* [Bootstrap](document/Bootstrap/README.md)
+* [Typescript](document/Jquery/README.md)
+* [Vue](document/Vue/README.md)
+* [Angular](document/Angular/README.md)
 
 
 ### 대기중
 
-
-* :raised_hand: [ES6](document/ES6/README.md)
-
-
-<br>
-
-
-
-* [PostCSS](document/PostCSS/README.md)
-* [CoffeeScript](document/CoffeeScript/README.md)
-* [Atom](document/Atom/README.md)
-* [Less](document/Less/README.md)
-* [Gulp](document/Gulp/README.md)
-
-<br>
 
 
 
