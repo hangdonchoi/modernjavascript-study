@@ -4,5 +4,6 @@
 
 https://nodejs.org/ko/download/
 
-2. vue cli 서치
-install vue-cli -global
+2. vue cli 설치
+npm install vue-cli -global
+
