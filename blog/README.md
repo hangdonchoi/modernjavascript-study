@@ -3,7 +3,9 @@
 1. nodejs설치 
 
 https://nodejs.org/ko/download/
+
 크롬 툴즈 : vue devtools
+
 2. vue cli 설치
 npm install vue-cli -global
 
