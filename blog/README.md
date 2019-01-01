@@ -18,5 +18,5 @@ npm install vue-cli -global
   
   -일단 todo리스트 부터 만들어보자
   
-4.
+  -https://github.com/hangdonchoi/vue-todo.git
   
