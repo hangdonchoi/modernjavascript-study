@@ -20,7 +20,7 @@ npm install vue-cli -global
   
   -https://github.com/hangdonchoi/vue-todo.git
   
-  - nuxt 프로젝트 구성해보기
+3v2.  nuxt 프로젝트 구성해보기
   
  
   
@@ -40,4 +40,7 @@ npm install vue-cli -global
   
   - index.vue 에 있던 중복을 components 의 Posts 에 새로 생성해보기
   
-  -
+  - index.vue 에 백그라운드 이미지 생성해보기 (assets /images/ background-image추가)
+  
+  - Navigation 추가하기 
+  
